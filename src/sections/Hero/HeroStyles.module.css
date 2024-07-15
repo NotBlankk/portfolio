@@ -10,7 +10,10 @@
   .hero {
     max-width: 200px;
   }
-
+  img {
+    border-radius: 30%;
+    zoom: 180%;
+  }
   span {
     display: flex;
     gap: 25px;
